@@ -1,0 +1,2 @@
+# amorporfotos
+Software AmorPorFotos
